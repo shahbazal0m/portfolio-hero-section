@@ -38,10 +38,6 @@ This project was created as a **personal portfolio landing page** to showcase fr
 
 ---
 
-## 📸 Preview
-(Add screenshots or demo GIFs here)
-
----
 
 ## 👨‍💻 Author
 **Shahbaz Alam**  
